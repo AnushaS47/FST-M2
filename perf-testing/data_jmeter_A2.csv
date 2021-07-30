@@ -1,0 +1,2 @@
+login-form,login-form:password,login-form:email,autoquote:e-mail,autoquote:vehicle,autoquote:zipcode,autoquote:gender,autoquote:type,autoquote:age,carMake,autoquote:make,autoquote:year,autoquote:model,makeCombo,autoquote:finInfo,modelCombo
+login-form,john,john.smith@gmail.com,a@gmail.com,car,123456,Female,Excellent,24,Buick,Buick,2021,Century,Buick,Own,Century
